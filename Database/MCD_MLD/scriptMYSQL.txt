@@ -1,0 +1,7 @@
+LOAD DATA INFILE 'C:\\Users\\ethschafsta\\Desktop\\donnesSmartphone\\csvDonnesSmartphone.csv'
+INTO TABLE t_smartphone
+FIELDS TERMINATED BY ';'
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS
+(IDsmartphone, smaModele, smaMarque, smaMemoireRom, smaTailleEcran, smaPrix, smaOS, smaAutonomie, smaImage);
