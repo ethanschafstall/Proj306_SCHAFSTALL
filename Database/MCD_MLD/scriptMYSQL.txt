@@ -4,4 +4,4 @@ FIELDS TERMINATED BY ';'
 ENCLOSED BY '"'
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS
-(IDsmartphone, smaModele, smaMarque, smaMemoireRom, smaTailleEcran, smaPrix, smaOS, smaAutonomie, smaImage);
+(IDsmartphone, smaModele, smaMarque, smaMemoireRom, smaTailleEcran, smaPrix, smaOS, smaAutonomie, smaImage, smaRAM, smaPoids, smaCapaciteDeBatterie, smaCPU, smaGPU, smaDateDeSorti);
