@@ -8,6 +8,12 @@ CREATE TABLE t_smartphone(
    smaOS VARCHAR(50)  NOT NULL,
    smaAutonomie DECIMAL(4,2)   NOT NULL,
    smaImage VARCHAR(250)  NOT NULL,
+   smaRAM TINYINT,
+   smaPoids SMALLINT,
+   smaCapaciteDeBatterie INT,
+   smaCPU VARCHAR(50) ,
+   smaGPU VARCHAR(50) ,
+   smaDateDeSorti DATE,
    PRIMARY KEY(IDsmartphone)
 );
 
@@ -26,6 +32,7 @@ CREATE TABLE t_article(
    artStock INT,
    artCategorie VARCHAR(50) ,
    artTitre VARCHAR(100) ,
+   artQuantite INT,
    IDsmartphone INT NOT NULL,
    PRIMARY KEY(IDarticle),
    FOREIGN KEY(IDsmartphone) REFERENCES t_smartphone(IDsmartphone)
@@ -47,8 +54,6 @@ CREATE TABLE t_commande(
    IDcommande INT AUTO_INCREMENT,
    comDate DATE,
    comStatus VARCHAR(50) ,
-   comTotalPrix DECIMAL(19,4),
-   comTax DECIMAL(19,4),
    comCommentaire VARCHAR(200) ,
    comNumeroDeSuivi VARCHAR(50) ,
    comPaymentStatus VARCHAR(50) ,
