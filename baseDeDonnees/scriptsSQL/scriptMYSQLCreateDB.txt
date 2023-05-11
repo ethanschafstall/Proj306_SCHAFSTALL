@@ -1,0 +1,79 @@
+CREATE TABLE t_smartphone(
+   IDsmartphone INT AUTO_INCREMENT,
+   smaModele VARCHAR(100)  NOT NULL,
+   smaMarque VARCHAR(100)  NOT NULL,
+   smaMemoireRom INT NOT NULL,
+   smaTailleEcran DECIMAL(4,2)   NOT NULL,
+   smaPrix DECIMAL(6,2)   NOT NULL,
+   smaOS VARCHAR(50)  NOT NULL,
+   smaAutonomie DECIMAL(4,2)   NOT NULL,
+   smaImage VARCHAR(250)  NOT NULL,
+   smaRAM TINYINT,
+   smaPoids SMALLINT,
+   smaCapaciteDeBatterie INT,
+   smaCPU VARCHAR(50) ,
+   smaGPU VARCHAR(50) ,
+   smaDateDeSorti DATE,
+   PRIMARY KEY(IDsmartphone)
+);
+
+CREATE TABLE t_lieu(
+   IDlieu INT AUTO_INCREMENT,
+   lieNPA VARCHAR(50) ,
+   lieCanton VARCHAR(50) ,
+   lieLocalite VARCHAR(50) ,
+   lieRue VARCHAR(50) ,
+   lieNumeroDeRue VARCHAR(50) ,
+   PRIMARY KEY(IDlieu)
+);
+
+CREATE TABLE t_article(
+   IDarticle INT AUTO_INCREMENT,
+   artStock INT,
+   artCategorie VARCHAR(50) ,
+   artTitre VARCHAR(100) ,
+   artQuantite INT,
+   IDsmartphone INT NOT NULL,
+   PRIMARY KEY(IDarticle),
+   FOREIGN KEY(IDsmartphone) REFERENCES t_smartphone(IDsmartphone)
+);
+
+CREATE TABLE t_user(
+   IDUser INT AUTO_INCREMENT,
+   usePrenom VARCHAR(50)  NOT NULL,
+   useNom VARCHAR(50)  NOT NULL,
+   useEmail VARCHAR(50)  NOT NULL,
+   useMotDePasse VARCHAR(50)  NOT NULL,
+   IDlieu INT NOT NULL,
+   PRIMARY KEY(IDUser),
+   UNIQUE(useEmail),
+   FOREIGN KEY(IDlieu) REFERENCES t_lieu(IDlieu)
+);
+
+CREATE TABLE t_commande(
+   IDcommande INT AUTO_INCREMENT,
+   comDate DATE,
+   comStatus VARCHAR(50) ,
+   comCommentaire VARCHAR(200) ,
+   comNumeroDeSuivi VARCHAR(50) ,
+   comPaymentStatus VARCHAR(50) ,
+   IDUser INT NOT NULL,
+   PRIMARY KEY(IDcommande),
+   FOREIGN KEY(IDUser) REFERENCES t_user(IDUser)
+);
+
+CREATE TABLE livrer(
+   IDcommande INT,
+   IDlieu INT,
+   PRIMARY KEY(IDcommande, IDlieu),
+   FOREIGN KEY(IDcommande) REFERENCES t_commande(IDcommande),
+   FOREIGN KEY(IDlieu) REFERENCES t_lieu(IDlieu)
+);
+
+CREATE TABLE appartenir(
+   IDcommande INT,
+   IDarticle INT,
+   PRIMARY KEY(IDcommande, IDarticle),
+   FOREIGN KEY(IDcommande) REFERENCES t_commande(IDcommande),
+   FOREIGN KEY(IDarticle) REFERENCES t_article(IDarticle)
+);
