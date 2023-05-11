@@ -1,31 +1,31 @@
 ID;Modèle ;Marque;Mémoire ROM (Go);Taille écran (pouces);Prix (CHF);OS;Autonomie (h);Image (URL);RAM(Gb);Poids(g);Capacité de la battrie(mAh);CPU(chipset);GPU;Date de sortie
-1;Pixel 7 Pro;Google ;128;6.7;694;Android 13;17.23;https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg;8;212;5000;Google Tensor G2;Mali G710 MP7;2022-10-13
-2;Pixel 7;Google ;128;6.30;526;Android 13;19.75;https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-new.jpg;8;197;4355;Google Tensor G2;Mali G710 MP7;2022-10-13
-3;Pixel 6A;Google ;128;6.1;283;Android 12;19.98;https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6a.jpg;6;178;4410;Google Tensor ;Mali G78 MP20;2022-07-21
-4;iPhone 14;Apple;128;6.1;709;IOS 16;18.46;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg;6;172;3279;A15 Bionic;Apple GPU 5core;2022-09-16
-5;iPhone 14 Pro;Apple;256;6.1;1259;IOS 16;17.30;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg;6;206;3200;A16 Bionic;Apple GPU 5core;2022-09-16
-6;iPhone 14 Pro Max;Apple;512;6.7;1577;IOS 16;24.63;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg;6;240;4323;A16 Bionic;Apple GPU 5core;2022-09-16
-7;iPhone 13 Pro;Apple;128;6.1;999;IOS 15;18.33;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg;6;204;3095;A15 Bionic;Apple GPU 5core;2021-09-24
-8;iPhone 13;Apple;128;6.1;649;IOS 15;16.83;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg;4;174;3240;A15 Bionic;Apple GPU 5core;2021-09-24
-9; XIAOMI 12S Ultra;Xiomi;256;6.73;920;Android 12;16.26;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg;8;225;4860;Snapdragon 8+ Gen1;Adreno 730;2022-07-09
-10;XIAOMI 12S Pro;Xiomi;128;6.67;670;Android 12;14.45;https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12s-pro-1.jpg;8;203;4600;Snapdragon 8+ Gen1;Adreno 730;2022-07-07
-11;XIAOMI Redmi note 11;Xiomi;64;6.43;170;Android 13;20.86;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-global.jpg;4;179;5000;Snapdragon 680 4G;Adreno 610;2022-02-09
-12;Xiaomi Mi 11 Lite;Xiomi;64;6.55;297;Android 11;14.38;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-4g.jpg;4;157;4250;Snapdragon 732G;Adreno 618;2021-04-16
-13;ONEPLUS 10T;Oneplus;128;6.7;419;Android 12;17.40;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg;8;204;4800;Snapdragon 8+ Gen1;Adreno 730;2022-08-06
-14;OnePlus 11;Oneplus;128;6.7;645;Android 13;19.00;https://fdn.gsmarena.com/vv/bigpic/oneplus-11.jpg;8;205;5000;Snapdragon 8 Gen2;Adreno 740;2023-01-09
-15;OnePlus 10 Pro;Oneplus;128;6.7;469;Android 12;16.33;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg;8;201;5000;Snapdragon 8+ Gen1;Adreno 730;2022-01-13
-16;RENO 8;Oppo;128;6.4;415;Android 12;18.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8.jpg;8;179;4500;Mediatek Dimension 1300;Mali G77 MC9;2022-07-25
-17;RENO 8 Pro;Oppo;256;6.7;728;Android 12;17.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8-pro.jpg;8;183;4500;Mediatec Dimensity 8100Max;Mali G610 MC6;2022-07-19
-18;Nokia X30;Nokia;128;6.43;433;Android 12;20.86;https://fdn2.gsmarena.com/vv/bigpic/nokia-x30-5g.jpg;6;185;4200;Snapdragon 695 5G;Adreno 619;2022-09-21
-19;ROG phone 7 ultilmate;Asus;512;6.78;1400;Android 13;29.02;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7-ultimate.jpg;16;239;6000;Snapdragon 8 Gen2;Adreno 740;2023-05-01
-20;ROG phone 7;Asus;256;6.78;1000;Android 13;28.45;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7.jpg;12;239;6000;Snapdragon 8 Gen2;Adreno 740;2023-05-01
-21;Honor Magic5 pro;Honor;256;6.81;949;Android 13;19.36;https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-pro.jpg;8;219;5100;Snapdragon 8 Gen2;Adreno 740;2023-03-31
-22;Honor X9a;Honor;128;6.67;299;Android 12;11.05;https://fdn2.gsmarena.com/vv/bigpic/honor-x9a.jpg;6;175;5100;Snapdragon 695 5G;Adreno 619;2023-01-06
-23;Samsung Galaxy s22+;Samsung;128;6.6;898;Android 12;17.45;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-plus-5g.jpg;8;195;4500;Snapdragon 8 Gen 1;Adreno 730;2022-02-25
-24;Samsung Galaxy S23;Samsung;128;6.1;699;Android 13;17.08;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-5g.jpg;8;168;3900;Snapdragon 8 Gen 2;Adreno 740;2023-02-17
-25;Samsung Galaxy S23 Ultra;Samsung;256;6.8;1127;Android 13;23.48;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-ultra-5g.jpg;8;234;5000;Snapdragon 8 Gen 2;Adreno 740;2023-02-17
-26;Samsung Galaxy A22 5G;Samsung;64;6.6;187;Android 11;15.81;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a22-5g.jpg;4;203;5000;Mediatek MT6833 Dimensity 700;Mali-G57 MC2;2021-06-24
-27;Oppo A17;Oppo;64;6.56;138;Android 12;16.20;https://fdn2.gsmarena.com/vv/bigpic/oppo-a17.jpg;4;189;5000;Mediatek MT6765 Helio G35;PowerVR GE8320;2022-09-26
-28;Oppo A78;Oppo;128;6.56;230;Android 12;16.10;https://fdn2.gsmarena.com/vv/bigpic/oppo-a58.jpg;8;188;5000;Mediatek MT6833 Dimensity 700;Mali-G57 MC2;2023-01-07
-29;Sony Xperia 5 IV;Sony;128;6.1;728;Android 12;19.30;https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-5-iv-ofic.jpg;8;172;5000;Snapdragon 8 Gen 1;Adreno 730;2022-09-22
-30;Sony Xperia 1 IV;Sony;256;6.5;799;Android 12;15.10;https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iv-.jpg;12;185;5000; Snapdragon 8 Gen 1;Adreno 730;2022-06-11
+1;Pixel 7 Pro;Google ;128;06.juil;694;Android 13;17.23;https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-pro-new.jpg;8;212;5000;Google Tensor G2;Mali G710 MP7;13.10.2022
+2;Pixel 7;Google ;128;juin.30;526;Android 13;19.75;https://fdn2.gsmarena.com/vv/bigpic/google-pixel7-new.jpg;8;197;4355;Google Tensor G2;Mali G710 MP7;13.10.2022
+3;Pixel 6A;Google ;128;06.janv;283;Android 12;19.98;https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6a.jpg;6;178;4410;Google Tensor ;Mali G78 MP20;21.07.2022
+4;iPhone 14;Apple;128;06.janv;709;IOS 16;18.46;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14.jpg;6;172;3279;A15 Bionic;Apple GPU 5core;16.09.2022
+5;iPhone 14 Pro;Apple;256;06.janv;1259;IOS 16;17.30;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro.jpg;6;206;3200;A16 Bionic;Apple GPU 5core;16.09.2022
+6;iPhone 14 Pro Max;Apple;512;06.juil;1577;IOS 16;24.63;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg;6;240;4323;A16 Bionic;Apple GPU 5core;16.09.2022
+7;iPhone 13 Pro;Apple;128;06.janv;999;IOS 15;18.33;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg;6;204;3095;A15 Bionic;Apple GPU 5core;24.09.2021
+8;iPhone 13;Apple;128;06.janv;649;IOS 15;16.83;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg;4;174;3240;A15 Bionic;Apple GPU 5core;24.09.2021
+9; XIAOMI 12S Ultra;Xiaomi;256;juin.73;920;Android 12;16.26;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg;8;225;4860;Snapdragon 8+ Gen1;Adreno 730;09.07.2022
+10;XIAOMI 12S Pro;Xiaomi;128;juin.67;670;Android 12;14.45;https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12s-pro-1.jpg;8;203;4600;Snapdragon 8+ Gen1;Adreno 730;07.07.2022
+11;XIAOMI Redmi note 11;Xiaomi;64;juin.43;170;Android 13;20.86;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-global.jpg;4;179;5000;Snapdragon 680 4G;Adreno 610;09.02.2022
+12;Xiaomi Mi 11 Lite;Xiaomi;64;juin.55;297;Android 11;14.38;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-4g.jpg;4;157;4250;Snapdragon 732G;Adreno 618;16.04.2021
+13;ONEPLUS 10T;Oneplus;128;06.juil;419;Android 12;17.40;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg;8;204;4800;Snapdragon 8+ Gen1;Adreno 730;06.08.2022
+14;OnePlus 11;Oneplus;128;06.juil;645;Android 13;19.00;https://fdn.gsmarena.com/vv/bigpic/oneplus-11.jpg;8;205;5000;Snapdragon 8 Gen2;Adreno 740;09.01.2023
+15;OnePlus 10 Pro;Oneplus;128;06.juil;469;Android 12;16.33;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg;8;201;5000;Snapdragon 8+ Gen1;Adreno 730;13.01.2022
+16;RENO 8;Oppo;128;06.avr;415;Android 12;18.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8.jpg;8;179;4500;Mediatek Dimension 1300;Mali G77 MC9;25.07.2022
+17;RENO 8 Pro;Oppo;256;06.juil;728;Android 12;17.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8-pro.jpg;8;183;4500;Mediatec Dimensity 8100Max;Mali G610 MC6;19.07.2022
+18;Nokia X30;Nokia;128;juin.43;433;Android 12;20.86;https://fdn2.gsmarena.com/vv/bigpic/nokia-x30-5g.jpg;6;185;4200;Snapdragon 695 5G;Adreno 619;21.09.2022
+19;ROG phone 7 ultilmate;Asus;512;juin.78;1400;Android 13;29.02;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7-ultimate.jpg;16;239;6000;Snapdragon 8 Gen2;Adreno 740;01.05.2023
+20;ROG phone 7;Asus;256;juin.78;1000;Android 13;28.45;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7.jpg;12;239;6000;Snapdragon 8 Gen2;Adreno 740;01.05.2023
+21;Honor Magic5 pro;Honor;256;juin.81;949;Android 13;19.36;https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-pro.jpg;8;219;5100;Snapdragon 8 Gen2;Adreno 740;31.03.2023
+22;Honor X9a;Honor;128;juin.67;299;Android 12;11.mai;https://fdn2.gsmarena.com/vv/bigpic/honor-x9a.jpg;6;175;5100;Snapdragon 695 5G;Adreno 619;06.01.2023
+23;Samsung Galaxy s22+;Samsung;128;06.juin;898;Android 12;17.45;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-plus-5g.jpg;8;195;4500;Snapdragon 8 Gen 1;Adreno 730;25.02.2022
+24;Samsung Galaxy S23;Samsung;128;06.janv;699;Android 13;17.août;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-5g.jpg;8;168;3900;Snapdragon 8 Gen 2;Adreno 740;17.02.2023
+25;Samsung Galaxy S23 Ultra;Samsung;256;06.août;1127;Android 13;23.48;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s23-ultra-5g.jpg;8;234;5000;Snapdragon 8 Gen 2;Adreno 740;17.02.2023
+26;Samsung Galaxy A22 5G;Samsung;64;06.juin;187;Android 11;15.81;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a22-5g.jpg;4;203;5000;Mediatek MT6833 Dimensity 700;Mali-G57 MC2;24.06.2021
+27;Oppo A17;Oppo;64;juin.56;138;Android 12;16.20;https://fdn2.gsmarena.com/vv/bigpic/oppo-a17.jpg;4;189;5000;Mediatek MT6765 Helio G35;PowerVR GE8320;26.09.2022
+28;Oppo A78;Oppo;128;juin.56;230;Android 12;16.oct;https://fdn2.gsmarena.com/vv/bigpic/oppo-a58.jpg;8;188;5000;Mediatek MT6833 Dimensity 700;Mali-G57 MC2;07.01.2023
+29;Sony Xperia 5 IV;Sony;128;06.janv;728;Android 12;19.30;https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-5-iv-ofic.jpg;8;172;5000;Snapdragon 8 Gen 1;Adreno 730;22.09.2022
+30;Sony Xperia 1 IV;Sony;256;06.mai;799;Android 12;15.oct;https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iv-.jpg;12;185;5000; Snapdragon 8 Gen 1;Adreno 730;11.06.2022
