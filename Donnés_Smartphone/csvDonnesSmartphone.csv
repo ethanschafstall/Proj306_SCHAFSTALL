@@ -7,18 +7,18 @@ ID;Modèle ;Marque;Mémoire ROM (Go);Taille écran (pouces);Prix (CHF);OS;Autonomie
 6;iPhone 14 Pro Max;Apple;512;6.7;1577;IOS 16;24.63;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-14-pro-max-.jpg;6;240;4323;A16 Bionic;Apple GPU 5core;2022-09-16
 7;iPhone 13 Pro;Apple;128;6.1;999;IOS 15;18.33;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg;6;204;3095;A15 Bionic;Apple GPU 5core;2021-09-24
 8;iPhone 13;Apple;128;6.1;649;IOS 15;16.83;https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg;4;174;3240;A15 Bionic;Apple GPU 5core;2021-09-24
-9; XIAOMI 12S Ultra;Xiomi;256;6.73;920;Android 12;16.26;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg;8;225;4860;Snapdragon 8+ Gen1;Adreno 730;2022-07-09
-10;XIAOMI 12S Pro;Xiomi;128;6.67;670;Android 12;14.45;https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12s-pro-1.jpg;8;203;4600;Snapdragon 8+ Gen1;Adreno 730;2022-07-07
-11;XIAOMI Redmi note 11;Xiomi;64;6.43;170;Android 13;20.86;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-global.jpg;4;179;5000;Snapdragon 680 4G;Adreno 610;2022-02-09
+9; Xiaomi 12S Ultra;Xiomi;256;6.73;920;Android 12;16.26;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-12s-ultra.jpg;8;225;4860;Snapdragon 8+ Gen1;Adreno 730;2022-07-09
+10;Xiaomi 12S Pro;Xiomi;128;6.67;670;Android 12;14.45;https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-12s-pro-1.jpg;8;203;4600;Snapdragon 8+ Gen1;Adreno 730;2022-07-07
+11;Xiaomi Redmi note 11;Xiomi;64;6.43;170;Android 13;20.86;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-redmi-note-11-global.jpg;4;179;5000;Snapdragon 680 4G;Adreno 610;2022-02-09
 12;Xiaomi Mi 11 Lite;Xiomi;64;6.55;297;Android 11;14.38;https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi-11-lite-4g.jpg;4;157;4250;Snapdragon 732G;Adreno 618;2021-04-16
 13;ONEPLUS 10T;Oneplus;128;6.7;419;Android 12;17.40;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10t-5g.jpg;8;204;4800;Snapdragon 8+ Gen1;Adreno 730;2022-08-06
 14;OnePlus 11;Oneplus;128;6.7;645;Android 13;19.00;https://fdn.gsmarena.com/vv/bigpic/oneplus-11.jpg;8;205;5000;Snapdragon 8 Gen2;Adreno 740;2023-01-09
-15;OnePlus 10 Pro;Oneplus;128;6.7;469;Android 12;16.33;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg;8;201;5000;Snapdragon 8+ Gen1;Adreno 730;2022-01-13
-16;RENO 8;Oppo;128;6.4;415;Android 12;18.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8.jpg;8;179;4500;Mediatek Dimension 1300;Mali G77 MC9;2022-07-25
+15;OnePlus 10 Pro;Oneplus;128;6.7;469;Android 12;16.33;https://fdn2.gsmarena.com/vv/bigpic/oneplus-10-pro.jpg;8;201;5000;Snapdragon 8 Gen1;Adreno 730;2022-01-13
+16;RENO 8;Oppo;128;6.4;415;Android 12;18.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8.jpg;8;179;4500;Mediatek Dimensity 1300;Mali G77 MC9;2022-07-25
 17;RENO 8 Pro;Oppo;256;6.7;728;Android 12;17.45;https://fdn2.gsmarena.com/vv/bigpic/oppo-reno8-pro.jpg;8;183;4500;Mediatec Dimensity 8100Max;Mali G610 MC6;2022-07-19
 18;Nokia X30;Nokia;128;6.43;433;Android 12;20.86;https://fdn2.gsmarena.com/vv/bigpic/nokia-x30-5g.jpg;6;185;4200;Snapdragon 695 5G;Adreno 619;2022-09-21
-19;ROG phone 7 ultilmate;Asus;512;6.78;1400;Android 13;29.02;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7-ultimate.jpg;16;239;6000;Snapdragon 8 Gen2;Adreno 740;2023-05-01
-20;ROG phone 7;Asus;256;6.78;1000;Android 13;28.45;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7.jpg;12;239;6000;Snapdragon 8 Gen2;Adreno 740;2023-05-01
+19;ROG phone 7 ultilmate;Asus;512;6.78;1400;Android 13;29.02;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7-ultimate.jpg;16;239;6000;Snapdragon 8 Gen2;Adreno 740;2023-05-12
+20;ROG phone 7;Asus;256;6.78;1000;Android 13;28.45;https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-7.jpg;12;239;6000;Snapdragon 8 Gen2;Adreno 740;2023-05-12
 21;Honor Magic5 pro;Honor;256;6.81;949;Android 13;19.36;https://fdn2.gsmarena.com/vv/bigpic/honor-magic5-pro.jpg;8;219;5100;Snapdragon 8 Gen2;Adreno 740;2023-03-31
 22;Honor X9a;Honor;128;6.67;299;Android 12;11.05;https://fdn2.gsmarena.com/vv/bigpic/honor-x9a.jpg;6;175;5100;Snapdragon 695 5G;Adreno 619;2023-01-06
 23;Samsung Galaxy s22+;Samsung;128;6.6;898;Android 12;17.45;https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s22-plus-5g.jpg;8;195;4500;Snapdragon 8 Gen 1;Adreno 730;2022-02-25
